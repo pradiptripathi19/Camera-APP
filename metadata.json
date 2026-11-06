@@ -1,0 +1,6 @@
+{
+  "name": "ProCam - Redmi Note 15 4G Pro Camera",
+  "description": "Professional Camera application for Xiaomi Redmi Note 15 4G with 108MP HAL capability profiling, PRO manual controls, multi-frame astrophotography stacking, and editing suite.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
